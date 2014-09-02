@@ -2,10 +2,8 @@ Robot Framework Introduction Slides
 ===================================
 
 A slide set that works as a brief introduction to `Robot Framework
-<http://robotframework.org>`__.
-
-The presentation is visible online at `SlideShare
-<http://www.slideshare.net/pekkaklarck/robot-framework-introduction>`__.
+<http://robotframework.org>`__. The presentation is visible online at
+`SlideShare <http://www.slideshare.net/pekkaklarck/robot-framework-introduction>`__.
 and here you can find the original `RobotFrameworkIntroduction.odp
 <https://github.com/robotframework/IntroSlides/raw/master/RobotFrameworkIntroduction.odp>`__.
 
